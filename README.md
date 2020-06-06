@@ -14,3 +14,26 @@
 5-soritng dataframe
 
 6-filtering data
+
+
+## PART 2
+
+1- filter multiple criteria
+
+2-Selective columns and rows
+
+3-Iterating through data within series and dataframe
+
+4-Axis parameter
+
+5-String methods
+
+6-Changing datatypes
+
+7-Groupby function
+
+8-Function on series
+
+9-Plotting series in pandas
+
+
